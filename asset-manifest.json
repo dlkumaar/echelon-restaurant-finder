@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/echelon-restaurant-finder/static/css/main.2bb5b864.chunk.css",
-    "main.js": "/echelon-restaurant-finder/static/js/main.95f1e727.chunk.js",
-    "main.js.map": "/echelon-restaurant-finder/static/js/main.95f1e727.chunk.js.map",
+    "main.js": "/echelon-restaurant-finder/static/js/main.dbd6582f.chunk.js",
+    "main.js.map": "/echelon-restaurant-finder/static/js/main.dbd6582f.chunk.js.map",
     "runtime-main.js": "/echelon-restaurant-finder/static/js/runtime-main.6b17af99.js",
     "runtime-main.js.map": "/echelon-restaurant-finder/static/js/runtime-main.6b17af99.js.map",
     "static/js/2.b675cd84.chunk.js": "/echelon-restaurant-finder/static/js/2.b675cd84.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.6b17af99.js",
     "static/js/2.b675cd84.chunk.js",
     "static/css/main.2bb5b864.chunk.css",
-    "static/js/main.95f1e727.chunk.js"
+    "static/js/main.dbd6582f.chunk.js"
   ]
 }
